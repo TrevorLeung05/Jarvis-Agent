@@ -1,0 +1,21 @@
+{
+  "name": "jarvis-agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@deepseek-ai/dsh": "^0.2.0-rc.2",
+    "dotenv": "^18.0.6",
+    "express": "^5.2.1",
+    "googleapis": "^184.0.0",
+    "playwright": "^1.63.0",
+    "ws": "^8.22.0"
+  }
+}
